@@ -1,0 +1,10 @@
+*******************************
+*  MAGIC MIRROR FEATURE LIST  *
+*******************************
+
+- Phone integration, specifically phone notifications
+- Spotify integration
+- Clock - Date and Time
+- Automatic Weather info
+- To do list
+-  
